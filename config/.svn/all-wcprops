@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/997/branches/fluxcp-1.0/config
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/959/branches/fluxcp-1.0/config/error.php
+END
+servers.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/927/branches/fluxcp-1.0/config/servers.php
+END
+levels.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/986/branches/fluxcp-1.0/config/levels.php
+END
+monstermode.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/967/branches/fluxcp-1.0/config/monstermode.php
+END
+races.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/968/branches/fluxcp-1.0/config/races.php
+END
+jobs.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/984/branches/fluxcp-1.0/config/jobs.php
+END
+equip_locations.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/997/branches/fluxcp-1.0/config/equip_locations.php
+END
+equip_upper.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/943/branches/fluxcp-1.0/config/equip_upper.php
+END
+equip_jobs.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/943/branches/fluxcp-1.0/config/equip_jobs.php
+END
+access.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/986/branches/fluxcp-1.0/config/access.php
+END
+homunculus.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/579/branches/fluxcp-1.0/config/homunculus.php
+END
+application.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/997/branches/fluxcp-1.0/config/application.php
+END
+loginerrors.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/779/branches/fluxcp-1.0/config/loginerrors.php
+END
+picktypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/987/branches/fluxcp-1.0/config/picktypes.php
+END
+elements.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/767/branches/fluxcp-1.0/config/elements.php
+END
+shopcategories.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/989/branches/fluxcp-1.0/config/shopcategories.php
+END
+equip_location_combinations.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/997/branches/fluxcp-1.0/config/equip_location_combinations.php
+END
+itemtypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/988/branches/fluxcp-1.0/config/itemtypes.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/579/branches/fluxcp-1.0/config/.htaccess
+END

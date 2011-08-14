@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/791/branches/fluxcp-1.0/data/schemas/logindb
+END
+cp_txnlog.789.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/789/branches/fluxcp-1.0/data/schemas/logindb/cp_txnlog.789.sql
+END
+cp_pwchange.741.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/741/branches/fluxcp-1.0/data/schemas/logindb/cp_pwchange.741.sql
+END
+cp_trusted.743.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/743/branches/fluxcp-1.0/data/schemas/logindb/cp_trusted.743.sql
+END
+cp_pwchange.743.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/743/branches/fluxcp-1.0/data/schemas/logindb/cp_pwchange.743.sql
+END
+cp_credits.743.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/743/branches/fluxcp-1.0/data/schemas/logindb/cp_credits.743.sql
+END
+cp_emailchange.743.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/743/branches/fluxcp-1.0/data/schemas/logindb/cp_emailchange.743.sql
+END
+cp_emailchange.717.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/717/branches/fluxcp-1.0/data/schemas/logindb/cp_emailchange.717.sql
+END
+cp_createlog.602.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/602/branches/fluxcp-1.0/data/schemas/logindb/cp_createlog.602.sql
+END
+cp_trusted.497.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/579/branches/fluxcp-1.0/data/schemas/logindb/cp_trusted.497.sql
+END
+cp_banlog.743.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/743/branches/fluxcp-1.0/data/schemas/logindb/cp_banlog.743.sql
+END
+cp_credits.497.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/579/branches/fluxcp-1.0/data/schemas/logindb/cp_credits.497.sql
+END
+cp_loginprefs.522.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/579/branches/fluxcp-1.0/data/schemas/logindb/cp_loginprefs.522.sql
+END
+cp_createlog.743.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/743/branches/fluxcp-1.0/data/schemas/logindb/cp_createlog.743.sql
+END
+cp_resetpass.713.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/713/branches/fluxcp-1.0/data/schemas/logindb/cp_resetpass.713.sql
+END
+cp_createlog.609.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/609/branches/fluxcp-1.0/data/schemas/logindb/cp_createlog.609.sql
+END
+cp_banlog.497.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/579/branches/fluxcp-1.0/data/schemas/logindb/cp_banlog.497.sql
+END
+cp_loginprefs.743.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/743/branches/fluxcp-1.0/data/schemas/logindb/cp_loginprefs.743.sql
+END
+cp_resetpass.743.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/743/branches/fluxcp-1.0/data/schemas/logindb/cp_resetpass.743.sql
+END
+cp_loginlog.743.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/743/branches/fluxcp-1.0/data/schemas/logindb/cp_loginlog.743.sql
+END
+cp_txnlog.743.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/743/branches/fluxcp-1.0/data/schemas/logindb/cp_txnlog.743.sql
+END
+cp_createlog.497.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/579/branches/fluxcp-1.0/data/schemas/logindb/cp_createlog.497.sql
+END
+cp_loginlog.727.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/727/branches/fluxcp-1.0/data/schemas/logindb/cp_loginlog.727.sql
+END
+cp_txnlog.780.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/780/branches/fluxcp-1.0/data/schemas/logindb/cp_txnlog.780.sql
+END
+cp_txnlog.790.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/790/branches/fluxcp-1.0/data/schemas/logindb/cp_txnlog.790.sql
+END
+cp_txnlog.791.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/791/branches/fluxcp-1.0/data/schemas/logindb/cp_txnlog.791.sql
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/695/branches/fluxcp-1.0/data/schemas/logindb/index.html
+END
+cp_txnlog.497.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/579/branches/fluxcp-1.0/data/schemas/logindb/cp_txnlog.497.sql
+END

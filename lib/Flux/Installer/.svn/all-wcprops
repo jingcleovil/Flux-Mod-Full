@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/940/branches/fluxcp-1.0/lib/Flux/Installer
+END
+MainServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/696/branches/fluxcp-1.0/lib/Flux/Installer/MainServer.php
+END
+Schema.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/940/branches/fluxcp-1.0/lib/Flux/Installer/Schema.php
+END
+CharMapServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/696/branches/fluxcp-1.0/lib/Flux/Installer/CharMapServer.php
+END
+SchemaPermissionError.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/696/branches/fluxcp-1.0/lib/Flux/Installer/SchemaPermissionError.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/695/branches/fluxcp-1.0/lib/Flux/Installer/index.html
+END

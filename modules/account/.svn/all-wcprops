@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1000/branches/fluxcp-1.0/modules/account
+END
+cart.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/696/branches/fluxcp-1.0/modules/account/cart.php
+END
+prune.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/921/branches/fluxcp-1.0/modules/account/prune.php
+END
+resetpw.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/908/branches/fluxcp-1.0/modules/account/resetpw.php
+END
+confirm.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/849/branches/fluxcp-1.0/modules/account/confirm.php
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/859/branches/fluxcp-1.0/modules/account/create.php
+END
+changesex.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/849/branches/fluxcp-1.0/modules/account/changesex.php
+END
+confirmemail.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/849/branches/fluxcp-1.0/modules/account/confirmemail.php
+END
+xferlog.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/849/branches/fluxcp-1.0/modules/account/xferlog.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/898/branches/fluxcp-1.0/modules/account/index.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/949/branches/fluxcp-1.0/modules/account/login.php
+END
+resetpass.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/910/branches/fluxcp-1.0/modules/account/resetpass.php
+END
+logout.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/849/branches/fluxcp-1.0/modules/account/logout.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1000/branches/fluxcp-1.0/modules/account/view.php
+END
+changepass.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/907/branches/fluxcp-1.0/modules/account/changepass.php
+END
+resend.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/849/branches/fluxcp-1.0/modules/account/resend.php
+END
+transfer.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/849/branches/fluxcp-1.0/modules/account/transfer.php
+END
+edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/849/branches/fluxcp-1.0/modules/account/edit.php
+END
+changemail.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/849/branches/fluxcp-1.0/modules/account/changemail.php
+END

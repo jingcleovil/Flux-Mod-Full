@@ -1,0 +1,38 @@
+.listView
+{
+    font-size: 11px;
+    padding: 10px;
+}
+.tmlist
+{
+    width: 100%;
+    background: orange;
+}
+
+.search-frm
+{
+    width: 93%;
+    height:  90px;
+    background: #f2f2f2;
+    border: 1px solid #ddd;
+    border-radius: 7px;
+    padding: 10px 25px;
+    overflow: hidden;
+}
+.search-frm  label
+{
+    text-shadow: 1px 1px #fff;
+    font-size: 10px;
+}
+
+.search-frm  input[type=text]
+{
+    width: 100%;
+}
+.search-frm  select  
+{
+    padding: 2px 5px;
+    width: 120px;
+    border: 1px solid #ddd;
+    display: block;
+}

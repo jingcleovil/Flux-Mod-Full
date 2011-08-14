@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/761/branches/fluxcp-1.0/modules/donate
+END
+trusted.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/761/branches/fluxcp-1.0/modules/donate/trusted.php
+END
+history.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/696/branches/fluxcp-1.0/modules/donate/history.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/696/branches/fluxcp-1.0/modules/donate/update.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/696/branches/fluxcp-1.0/modules/donate/index.php
+END
+notify.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/696/branches/fluxcp-1.0/modules/donate/notify.php
+END
+complete.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/696/branches/fluxcp-1.0/modules/donate/complete.php
+END

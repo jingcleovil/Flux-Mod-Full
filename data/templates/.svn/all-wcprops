@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/717/branches/fluxcp-1.0/data/templates
+END
+resetpass.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/713/branches/fluxcp-1.0/data/templates/resetpass.php
+END
+confirm.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/713/branches/fluxcp-1.0/data/templates/confirm.php
+END
+newpass.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/713/branches/fluxcp-1.0/data/templates/newpass.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/695/branches/fluxcp-1.0/data/templates/index.html
+END
+changemail.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/717/branches/fluxcp-1.0/data/templates/changemail.php
+END

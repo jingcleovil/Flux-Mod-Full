@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/803/branches/fluxcp-1.0/modules/cplog
+END
+resetpass.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/803/branches/fluxcp-1.0/modules/cplog/resetpass.php
+END
+changepass.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/803/branches/fluxcp-1.0/modules/cplog/changepass.php
+END
+txnview.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/754/branches/fluxcp-1.0/modules/cplog/txnview.php
+END
+paypal.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/755/branches/fluxcp-1.0/modules/cplog/paypal.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/fluxcp-1.0/modules/cplog/index.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/781/branches/fluxcp-1.0/modules/cplog/login.php
+END
+changemail.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/803/branches/fluxcp-1.0/modules/cplog/changemail.php
+END

@@ -1,0 +1,20 @@
+
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule (.*) index.php/$1 [L]   
+
+FileETag MTime Size
+
+<FilesMatch "\.(html|ico|pdf|flv|js|css|swf|mp3)$">
+    SetOutputFilter DEFLATE
+</FilesMatch>
+
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
+    Header set Expires "Thu, 15 Apr 2012 20:00:00 GMT"
+</FilesMatch>        
+
+<FilesMatch "\.(jpg|jpeg|png|gif|swf)$">
+    Header set Cache-Control "max-age=604800"
+</FilesMatch>   

@@ -1,0 +1,72 @@
+.panes div
+{
+    display: none;
+    width: 97.5%;
+    height: auto;
+    min-height: 120px;  
+    margin-top: 5px;
+    border-radius: 7px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background: #94b4d5;
+}
+.panes div.selected 
+{
+    display: block;
+}
+.tabs
+{
+    padding: 15px 0 0 10px;
+}
+.tabs a
+{
+    margin: 0;
+    text-decoration: none;
+    background: #bfd6ee;
+    padding: 5px 20px;
+    margin: 0 1px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    color: #fff;
+    text-shadow: 1px 1px #000;  
+}
+.tabs a.selected
+{                  
+    background: #94b4d5;
+}
+.mlist
+{
+    width: 98%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+.mlist tr th,
+.mlist tr td
+{
+    padding: 4px;
+}
+.mlist tr th
+{
+    background: #708fae;
+    color: #fff;
+    text-shadow: 1px 1px #000;
+    text-align: left;
+}
+.mlist tr.odd td
+{
+    background: #c4d9ee;
+}
+.mlist tr.even td
+{
+    background: #a5c4e4;
+}
+
+.panes div.preloader
+{
+    width: 100%;
+    background: #94b4d5 url(../images/load.gif) no-repeat center;
+    padding: 20px 0;
+    height: auto;
+    min-height: 100px;
+
+}

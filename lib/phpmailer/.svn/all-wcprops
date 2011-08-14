@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/868/branches/fluxcp-1.0/lib/phpmailer
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/695/branches/fluxcp-1.0/lib/phpmailer/LICENSE
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/695/branches/fluxcp-1.0/lib/phpmailer/index.html
+END
+class.pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/696/branches/fluxcp-1.0/lib/phpmailer/class.pop3.php
+END
+class.phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/696/branches/fluxcp-1.0/lib/phpmailer/class.phpmailer.php
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/868/branches/fluxcp-1.0/lib/phpmailer/class.smtp.php
+END
